@@ -1,0 +1,5 @@
+# COMP.CS.100 Programming 1: Introduction to programming
+This repository contains all assignments I did for my university's 1st programming course. The course was done with Python. I hadn't seriously touched Python before this course, but I did have multiple years of programming experience in other languages.
+
+I'd say everything here is awfully uninteresting, apart from the assignments that were "projects". So essentially they were "harder" and required more work.  
+I moved the very last project ([battleships-py](https://github.com/0x464e/battleships-py)) to its own repository, but the other projects ([tulitikkupeli](https://github.com/0x464e/comp-cs-100/tree/master/3), [energiatilasto](https://github.com/0x464e/comp-cs-100/tree/master/6), [ystavaverkko](https://github.com/0x464e/comp-cs-100/tree/master/9) and [accesscontrol](https://github.com/0x464e/comp-cs-100/tree/master/12)) are here along with a screenshot of their assignments.
